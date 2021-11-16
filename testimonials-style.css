@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.testimonial-section {
+    background-color: #10c9c3;
+    padding: 25vh 0;
+}
+
+.carousel-inner .item p, h3 {
+    text-align: center;
+    color: #fff;
+}
+
+ol {
+    margin-bottom: -20vh;
+}
